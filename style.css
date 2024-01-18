@@ -1,0 +1,11 @@
+.dark  {
+    background: black;
+  }
+  
+  .dark  * {
+    color: white !important;
+  }
+  #light-dark{
+    border: none;
+    border-radius: 20px;
+  }
